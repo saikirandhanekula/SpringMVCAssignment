@@ -1,0 +1,3 @@
+com\saikiran\springmvc\website\controller\RegisterController.class
+com\saikiran\springmvc\website\repository\RepositoryDAO.class
+com\saikiran\springmvc\website\model\RegistrationDetails.class
